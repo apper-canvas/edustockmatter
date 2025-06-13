@@ -48,12 +48,11 @@ class UserService {
     return { ...updatedUser };
   }
 
-  async delete(id) {
+async delete(id) {
     await delay(300);
     const index = this.data.findIndex(user => user.id === id);
-const userService = new UserService();
-export { userService };
-export default userService;
+    if (index === -1) {
+      throw new Error('User not found');
     }
     
     this.data.splice(index, 1);
@@ -61,4 +60,6 @@ export default userService;
   }
 }
 
-export default new UserService();
+const userService = new UserService();
+export { userService };
+export default userService;
