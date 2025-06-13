@@ -71,5 +71,6 @@ class InventoryService {
     return this.data.filter(item => item.category === category);
   }
 }
-
-export default new InventoryService();
+const inventoryService = new InventoryService();
+export { inventoryService };
+export default inventoryService;

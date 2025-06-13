@@ -71,5 +71,6 @@ class RequestService {
     return this.data.filter(req => req.requestedBy === userId);
   }
 }
-
-export default new RequestService();
+const requestService = new RequestService();
+export { requestService };
+export default requestService;
