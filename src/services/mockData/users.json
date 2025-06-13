@@ -1,0 +1,44 @@
+[
+  {
+    "id": "user001",
+    "name": "Sarah Johnson",
+    "role": "Teacher",
+    "department": "Mathematics"
+  },
+  {
+    "id": "user002",
+    "name": "Mike Rodriguez",
+    "role": "Facility Manager",
+    "department": "Operations"
+  },
+  {
+    "id": "user003",
+    "name": "Emma Chen",
+    "role": "IT Coordinator",
+    "department": "Technology"
+  },
+  {
+    "id": "user004",
+    "name": "David Williams",
+    "role": "Principal",
+    "department": "Administration"
+  },
+  {
+    "id": "user005",
+    "name": "Lisa Thompson",
+    "role": "Administrative Assistant",
+    "department": "Administration"
+  },
+  {
+    "id": "user006",
+    "name": "Robert Lee",
+    "role": "Art Teacher",
+    "department": "Arts"
+  },
+  {
+    "id": "user007",
+    "name": "Jennifer Davis",
+    "role": "PE Teacher",
+    "department": "Physical Education"
+  }
+]

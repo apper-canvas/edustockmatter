@@ -1,0 +1,82 @@
+[
+  {
+    "id": "inv001",
+    "name": "A4 Copy Paper",
+    "category": "Office Supplies",
+    "quantity": 45,
+    "minStock": 20,
+    "location": "Storage Room A",
+    "unit": "reams",
+    "lastUpdated": "2024-01-15T10:30:00Z"
+  },
+  {
+    "id": "inv002",
+    "name": "Whiteboard Markers",
+    "category": "Teaching Materials",
+    "quantity": 12,
+    "minStock": 15,
+    "location": "Supply Closet B",
+    "unit": "boxes",
+    "lastUpdated": "2024-01-14T14:20:00Z"
+  },
+  {
+    "id": "inv003",
+    "name": "Student Chairs",
+    "category": "Furniture",
+    "quantity": 8,
+    "minStock": 10,
+    "location": "Warehouse",
+    "unit": "pieces",
+    "lastUpdated": "2024-01-13T09:15:00Z"
+  },
+  {
+    "id": "inv004",
+    "name": "Laptop Computers",
+    "category": "Technology",
+    "quantity": 25,
+    "minStock": 5,
+    "location": "IT Storage",
+    "unit": "units",
+    "lastUpdated": "2024-01-12T16:45:00Z"
+  },
+  {
+    "id": "inv005",
+    "name": "Cleaning Supplies Kit",
+    "category": "Maintenance",
+    "quantity": 6,
+    "minStock": 8,
+    "location": "Janitor Closet",
+    "unit": "sets",
+    "lastUpdated": "2024-01-11T11:30:00Z"
+  },
+  {
+    "id": "inv006",
+    "name": "Basketball",
+    "category": "Sports Equipment",
+    "quantity": 15,
+    "minStock": 10,
+    "location": "Gym Storage",
+    "unit": "pieces",
+    "lastUpdated": "2024-01-10T13:20:00Z"
+  },
+  {
+    "id": "inv007",
+    "name": "Projectors",
+    "category": "Technology",
+    "quantity": 3,
+    "minStock": 5,
+    "location": "AV Equipment Room",
+    "unit": "units",
+    "lastUpdated": "2024-01-09T08:45:00Z"
+  },
+  {
+    "id": "inv008",
+    "name": "Colored Pencils",
+    "category": "Teaching Materials",
+    "quantity": 28,
+    "minStock": 20,
+    "location": "Art Supply Cabinet",
+    "unit": "boxes",
+    "lastUpdated": "2024-01-08T15:10:00Z"
+  }
+]
